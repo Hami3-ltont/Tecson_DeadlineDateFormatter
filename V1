@@ -18,3 +18,5 @@ print("Year:", year)
 print("Month:", month_name)
 print("Day:", day)
 print("Weekday:", weekday_name)
+
+#The first version is a simple, input output code that does what the sample did without proper formatting.
