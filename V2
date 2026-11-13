@@ -24,3 +24,4 @@ print(f"Month: {month_name}")
 print(f"Day: {day}")
 print(f"Weekday: {weekday_name}")
 
+#I added features and commit messages, though the biggest change is the formatting.
